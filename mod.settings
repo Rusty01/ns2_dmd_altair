@@ -1,0 +1,17 @@
+name        = "ns2_dmd_ayumi"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[**WORK IN PROGRESS**
+
+Mod ID: 1FD1F592
+
+Ayumi is back! Originally a classic map created by the NS1 programmers, we have revived this sweet map and formatted it to include weldable vents, button activated doors, motion activated doors, and breakable glass!
+
+DISCLAIMER:
+The following people have contributed to this reconstruction:
+Rusty, WiseChoices, Cabooble, and Nikopol. 
+Please do not remove this notice board as we must give credit where credit is due.
+
+DiamondGamers.net]=]
+image       = "preview.jpg"
+publish_id = "1fd1f592"

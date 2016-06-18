@@ -1,0 +1,4 @@
+shader = "shaders/Model.surface_shader"
+albedoMap = "materials/dmd/dmd_logo.dds"
+normalMap = "materials/dmd/dmd_logo.dds"
+specularMap = "materials/dmd/dmd_logo.dds"
