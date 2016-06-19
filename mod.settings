@@ -1,4 +1,4 @@
-name        = "ns2_dmd_altair"
+name        = "ns2_dmd_bast"
 source_dir  = "source/"
 output_dir  = "output/"
 description = [=[]=]

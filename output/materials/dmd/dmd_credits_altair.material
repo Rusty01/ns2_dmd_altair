@@ -1,4 +1,0 @@
-shader = "shaders/Level.surface_shader"
-albedoMap = "materials/dmd/dmd_credits_altair.dds"
-normalMap = "materials/dmd/dmd_credits_altair.dds"
-specularMap = "materials/dmd/dmd_logo.dds"
