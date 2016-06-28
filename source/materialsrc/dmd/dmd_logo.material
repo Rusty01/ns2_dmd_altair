@@ -1,0 +1,4 @@
+shader 			= "models/hologram.surface_shader"
+emissiveMap 	= "materials/dmd/dmd_logo.dds"
+flickerMap  	= "models/flicker.dds"
+flickerSpeed 	= 0.05
