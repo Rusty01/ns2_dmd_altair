@@ -1,7 +1,0 @@
-modEntry = [[
-Client: lua/water_Client.lua,
-Server: lua/water_Server.lua,
-Predict: lua/water_Predict.lua,
-Shared: lua/water_Shared.lua,
-Priority: 3
-]]
