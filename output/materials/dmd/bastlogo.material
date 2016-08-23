@@ -2,4 +2,3 @@ shader 			= "models/hologram.surface_shader"
 emissiveMap 	= "materials/dmd/bastlogo.dds"
 flickerMap  	= "models/flicker.dds"
 flickerSpeed 	= 0.05
-yScroll 		= 0.05
