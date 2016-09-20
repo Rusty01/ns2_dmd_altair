@@ -1,8 +1,0 @@
-shader 				= "shaders/water_refract.surface_shader"
-normalMap 			= "models/water/images/0_descent_watertreatment_tank_water_01.dds"
-speed1 				= 0.025
-speed2 				= 0.05
-scale1 				= 0.01
-scale2 				= 0.02
-transmissionColor 	= [0.45, 0.60, 0.65]
-surface 			= "water"
