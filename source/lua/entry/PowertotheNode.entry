@@ -1,0 +1,4 @@
+ modEntry = [[
+Shared: lua/PowerNodeFix.lua,
+Priority: 3
+]]
